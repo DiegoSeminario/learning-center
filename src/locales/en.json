@@ -1,0 +1,25 @@
+{
+  "option": {
+    "home": "Home",
+    "about": "About"
+  
+  },
+  "authoring-phrase": {
+    "intro": "Made with",
+    "use" : "using",
+    "author": "by Diego Seminario"
+  },
+  "about": {
+    "title": "About Us",
+    "content": "ACME Learning Center is an Education bUSSINESS platform, part of ACME Corporation"
+  },
+  "home": {
+    "title": "Bienvenido",
+    "content": "Bienvenido a ACME Learning Center la mejor plataforma educativa empresarial",
+  },
+    "page-not-found": {
+        "title": "404- Page Not Found",
+        "content": "The route {unavailable-reoute} you are looking for does not exist. ",
+        "go-home": "Go Home"
+    }
+}

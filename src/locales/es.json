@@ -1,0 +1,24 @@
+{
+  "option": {
+    "home": "Inicio",
+    "about": "Acerca de"
+  },
+  "authoring-phrase": {
+    "intro": "Hecho con",
+    "use": "utilizando",
+    "author": "por Diego Seminario"
+  },
+  "about": {
+    "title": "Acerca de nostros",
+    "content": "ACME Learning Center es una Plataforna educativa empresarial,parte de ACME Corporation"
+  },
+  "home": {
+    "title": "Bienvenido",
+    "content": "Bienvenido a ACME Learning Center la mejor plataforma educativa empresarial",
+  },
+  "page-not-found": {
+    "title": "40- Pagina no encontrada",
+    "content": "La ruta {unavailable-reoute} que esta buscando no existe. ",
+    "go-home": "Go Home"
+  }
+}
